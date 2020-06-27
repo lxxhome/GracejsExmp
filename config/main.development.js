@@ -80,7 +80,7 @@ module.exports = {
       // mongoose 配置
     },
     api: {
-      'blog': 'mongodb://localhost:27017/blog'
+      // 'blog': 'mongodb://localhost:27017/blog'
     }
   },
 
