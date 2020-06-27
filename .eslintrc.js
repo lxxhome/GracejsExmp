@@ -1,4 +1,9 @@
 module.exports = {
+    "extends": "airbnb-base",
+    //启用 ES6 语法支持
+    "parserOptions": {
+        "ecmaVersion": 8,
+    },
     "env": {
         "node": true,
         "commonjs": true,
